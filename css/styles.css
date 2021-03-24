@@ -1,0 +1,16 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+h2 {
+  text-align: center;
+  text-shadow: 2px 2px 5px #8b0e21;
+}
+canvas {
+  display: block;
+  margin: auto;
+  width: 70%;
+  height: 60%;
+  border: 3px solid#000000;
+}
